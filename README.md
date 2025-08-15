@@ -95,8 +95,8 @@ quickconnect/
 ## Screenshots
 
 > _Add screenshots of the landing page and admin dashboard here._
-![Landing Page](assets/images/screenshot1.png)
-![Admin Dashboard](assets/images/screenshot2.png)
+![Landing Page](homepage.png)
+![Admin Dashboard](assets/images/dashboard.png)
 
 ## License
 
