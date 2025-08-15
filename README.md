@@ -106,7 +106,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 - [Bootstrap 5](https://getbootstrap.com/)
 - [Font Awesome](https://fontawesome.com/)
-- [jQuery](https://jquery.com/) (if used)
 - Unsplash (demo images)
 
 ---
